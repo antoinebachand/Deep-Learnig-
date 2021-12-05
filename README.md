@@ -1,1 +1,1 @@
-This repository includes my different projects in deep Learning conducted with the PyTorch library.All networks have been trained in Google Colab and include a stock trend predictor, a cnn project and a simple fully connected network. 
+This repository festures my different projects in Deep Learning with the PyTorch library. All networks have been trained in Google Colab. It includes a stock trend predictor, a cnn project and a simple fully connected network. 
